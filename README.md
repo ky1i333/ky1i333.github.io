@@ -3,7 +3,7 @@
 
 LG **ARROWSMITH**
 
-> Wala na 'kong mahihiling pa, ikaw at ikaw.
+> Wala na 'kong mahihiling pa, ikaw at ikaw. (Pasilyo, Sunkissed Lola)
 
 My Favorite Artists:
 - Eraserheads
