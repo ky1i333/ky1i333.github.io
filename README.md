@@ -1,6 +1,6 @@
 # ky1i333.github.io
 
-## *Isiah Namoro*
+### *Isiah Namoro*
 
 LG **ARROWSMITH**
 
@@ -9,6 +9,7 @@ LG **ARROWSMITH**
 ![317907707_520939480084295_8767328189993478947_n](https://user-images.githubusercontent.com/122426076/211963998-7daba989-b40f-4a75-bdb3-82cc21361cf9.jpg)
 
 Hello! Konnichiwa! Bonjour! I'm Isiah, a 14-year old enthusiast of Music, Songwriting, Philosophy, History, Economics, Social Studies, Basketball, and Mathematics. 
+
 I do many things: I sing, I make playlists, I read books, and I watch a few Netflix shows.
 
 Here are my top 5 songs on repeat:
