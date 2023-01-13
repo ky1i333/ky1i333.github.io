@@ -13,27 +13,27 @@ Hello! Konnichiwa! Bonjour! I'm Isiah, a 14-year old enthusiast of Music, Songwr
 I do many things: I sing, I make playlists, I read books, and I watch a few Netflix shows.
 
 Here are my top 5 songs on repeat:
-1. Pasilyo - Sunkissed Lola
+Pasilyo - Sunkissed Lola
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZvPF4uMN64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-2. She Was Mine - Jesse Barrera and AJ Rafael
+She Was Mine - Jesse Barrera and AJ Rafael
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tboJT-M1rEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-3. Kailan - Eraserheads
+Kailan - Eraserheads
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Msj0jifCi5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-4. te vas // don't go - boy pablo
+te vas // don't go - boy pablo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wanTYzVCNSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-5. Loose - Daniel Caesar
+Loose - Daniel Caesar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46uADUAzt0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
