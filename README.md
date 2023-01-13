@@ -29,7 +29,7 @@ My playlists are meant for all kinds of moods:
 7. [wooo](https://open.spotify.com/playlist/1SwGJyz93RsedoEti33H9F?si=92ca3a8c4c8d4339) - songs to sleep to
 
 Meanwhile, my favorite books are the following:
-- The Trial by Franz Kafka
+- The Trial - Franz Kafka
 - The Art of War - Sun Tzu
 - ABNKKBSNPLAko?! - Bob Ong
 - Every Day - David Levithan
