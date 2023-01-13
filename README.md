@@ -84,6 +84,7 @@ wooo - songs to sleep to
 
 
 
+
 Meanwhile, my favorite books are the following:
 - The Trial - Franz Kafka
 - The Art of War - Sun Tzu
@@ -97,6 +98,9 @@ I watch some series to, ranging from dramas to animes.
 - House of Cards
 - The Crown
 - My Hero Academia
+
+
+
 
 Term 2 Cycle 2 Assignment Tracker
 
