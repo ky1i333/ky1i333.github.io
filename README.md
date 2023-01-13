@@ -13,6 +13,8 @@ Hello! Konnichiwa! Bonjour! I'm Isiah, a 14-year old enthusiast of Music, Songwr
 I do many things: I sing, I make playlists, I read books, and I watch a few Netflix shows.
 
 Here are my top 5 songs on repeat:
+
+
 Pasilyo - Sunkissed Lola
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZvPF4uMN64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -39,11 +41,26 @@ Loose - Daniel Caesar
 
 
 My playlists are meant for all kinds of moods:
-1. [antique](https://open.spotify.com/playlist/23lWT0zGshVuCLTyN8GUYV?si=5198be9828dc49c6) - songs as old as time
-2. [levitate](https://open.spotify.com/playlist/1QkdagN3ZVwiFunvPDjWPQ?si=0e0bea1a252f4aae) - songs for that late night drive
-3. [christmas nostalgia](https://open.spotify.com/playlist/0hGDHZATNpJU5oEJtzgsYZ?si=0ba919ad4ade4ae5) - the name says it all
-4. [enamoured](https://open.spotify.com/playlist/2D6VY0NRE6FmxIem11t85n?si=1a95ef142e9c43a0) - for hopeless romantics
-5. [daydream](https://open.spotify.com/playlist/5v5opOyqcq7HzGZnoOkMQb?si=e9ca7bf784f341e2) - a playlist for that one person
+antique - songs as old as time
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/23lWT0zGshVuCLTyN8GUYV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+levitate - songs for that late night drive
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1QkdagN3ZVwiFunvPDjWPQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+christmas nostalgia - the name says it all
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0hGDHZATNpJU5oEJtzgsYZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+enamoured - for hopeless romantics
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2D6VY0NRE6FmxIem11t85n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+daydream - a playlist for that one person
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5v5opOyqcq7HzGZnoOkMQb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 6. [rap society](https://open.spotify.com/playlist/5f6bNGF7OUtEW8Ukq7EoRm?si=1d804ba6d3e9411c) - poetry but in style
 7. [wooo](https://open.spotify.com/playlist/1SwGJyz93RsedoEti33H9F?si=92ca3a8c4c8d4339) - songs to sleep to
 
