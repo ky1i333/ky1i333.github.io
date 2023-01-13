@@ -4,7 +4,7 @@
 
 LG **ARROWSMITH**
 
-> The value of a thing sometimes lies not in what one attains wit it but in what one pays for it - what it costs us. - *Friedrich Nietzsche*
+> The value of a thing sometimes lies not in what one attains with it but in what one pays for it - what it costs us. - *Friedrich Nietzsche*
 
 ![317907707_520939480084295_8767328189993478947_n](https://user-images.githubusercontent.com/122426076/211963998-7daba989-b40f-4a75-bdb3-82cc21361cf9.jpg)
 
