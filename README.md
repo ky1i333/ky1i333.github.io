@@ -17,10 +17,21 @@ Here are my top 5 songs on repeat:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZvPF4uMN64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-2. [She Was Mine - Jesse Barrera, Aj Rafael](https://youtu.be/tboJT-M1rEw)
-3. [Kailan - Eraserheads](https://www.youtube.com/watch?v=Msj0jifCi5w)
-4. [te vas // don't go - boy pablo](https://www.youtube.com/watch?v=wanTYzVCNSI)
-5. [Loose - Daniel Caesar](https://www.youtube.com/watch?v=46uADUAzt0k)
+2. She Was Mine - Jesse Barrera and AJ Rafael
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tboJT-M1rEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+3. Kailan - Eraserheads
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Msj0jifCi5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+4. te vas // don't go - boy pablo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wanTYzVCNSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+5. Loose - Daniel Caesar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46uADUAzt0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My playlists are meant for all kinds of moods:
 1. [antique](https://open.spotify.com/playlist/23lWT0zGshVuCLTyN8GUYV?si=5198be9828dc49c6) - songs as old as time
