@@ -20,9 +20,11 @@ Pasilyo - Sunkissed Lola
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZvPF4uMN64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
 She Was Mine - Jesse Barrera and AJ Rafael
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tboJT-M1rEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 Kailan - Eraserheads
@@ -30,9 +32,11 @@ Kailan - Eraserheads
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Msj0jifCi5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
 te vas // don't go - boy pablo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wanTYzVCNSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 Loose - Daniel Caesar
@@ -40,29 +44,44 @@ Loose - Daniel Caesar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46uADUAzt0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
+
 My playlists are meant for all kinds of moods:
+
 antique - songs as old as time
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/23lWT0zGshVuCLTyN8GUYV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 levitate - songs for that late night drive
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1QkdagN3ZVwiFunvPDjWPQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+
 christmas nostalgia - the name says it all
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0hGDHZATNpJU5oEJtzgsYZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 enamoured - for hopeless romantics
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2D6VY0NRE6FmxIem11t85n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+
 daydream - a playlist for that one person
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5v5opOyqcq7HzGZnoOkMQb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-6. [rap society](https://open.spotify.com/playlist/5f6bNGF7OUtEW8Ukq7EoRm?si=1d804ba6d3e9411c) - poetry but in style
-7. [wooo](https://open.spotify.com/playlist/1SwGJyz93RsedoEti33H9F?si=92ca3a8c4c8d4339) - songs to sleep to
+
+rap society - poetry but in style
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5f6bNGF7OUtEW8Ukq7EoRm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+wooo - songs to sleep to
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1SwGJyz93RsedoEti33H9F?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 Meanwhile, my favorite books are the following:
 - The Trial - Franz Kafka
