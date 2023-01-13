@@ -13,7 +13,10 @@ Hello! Konnichiwa! Bonjour! I'm Isiah, a 14-year old enthusiast of Music, Songwr
 I do many things: I sing, I make playlists, I read books, and I watch a few Netflix shows.
 
 Here are my top 5 songs on repeat:
-1. [Pasilyo - Sunkissed Lola](https://youtu.be/DZvPF4uMN64)
+1. Pasilyo - Sunkissed Lola
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DZvPF4uMN64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 2. [She Was Mine - Jesse Barrera, Aj Rafael](https://youtu.be/tboJT-M1rEw)
 3. [Kailan - Eraserheads](https://www.youtube.com/watch?v=Msj0jifCi5w)
 4. [te vas // don't go - boy pablo](https://www.youtube.com/watch?v=wanTYzVCNSI)
@@ -41,6 +44,15 @@ I watch some series to, ranging from dramas to animes.
 - House of Cards
 - The Crown
 - My Hero Academia
+
+Term 2 Cycle 2 Assignment Tracker
+
+| Subject | Assignment | Deadline | Progress |
+|--------|---------|-----------|----------|
+| Science | Timeline of Extinction | Monday | 15% |
+| Debate | Social Movements Report | Tuesday | 75% |
+| Music | Week 1 LMS Activities | Friday | 100% |
+
 
 If you want to know about me more, here are my social media profiles:
 [Faceboook](https://www.facebook.com/probably.isiah/), [Instagram](https://www.instagram.com/probably.isiah/), [Spotify](https://open.spotify.com/user/830pocd1uvaogsv8lxilippg7?si=d9953ea448894326), and [Twitter](https://twitter.com/probably_isiah)
