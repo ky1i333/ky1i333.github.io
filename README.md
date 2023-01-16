@@ -100,6 +100,12 @@ wooo - songs to sleep to
 
 
 
+
+
+
+
+
+
 Albums To Listen To Tracker:
 
 | Album | Artist | Genre | Mood |
@@ -110,6 +116,14 @@ Albums To Listen To Tracker:
 | SOS | SZA | R&B | In love/Heartbroken |
 | Freudian | Daniel Caesar | R&B/Indie | Love/Narrative |
 | Soy Pablo | Boy Pablo | Indie/Pop | Love/Heartbroken |
+
+
+
+
+
+
+
+
 
 If you want to know about me more, here are my social media profiles:
 [Faceboook](https://www.facebook.com/probably.isiah/), [Instagram](https://www.instagram.com/probably.isiah/), [Spotify](https://open.spotify.com/user/830pocd1uvaogsv8lxilippg7?si=d9953ea448894326), and [Twitter](https://twitter.com/probably_isiah)
